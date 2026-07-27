@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/chapters/" />
+  <Folder Name="/chapters/01-basics/">
+    <Project Path="chapters/01-basics/Basics.csproj" />
+  </Folder>
+</Solution>
