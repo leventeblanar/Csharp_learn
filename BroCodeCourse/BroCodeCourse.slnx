@@ -3,4 +3,16 @@
   <Folder Name="/chapters/01-basics/">
     <Project Path="chapters/01-basics/Basics.csproj" />
   </Folder>
+  <Folder Name="/chapters/02-output/">
+    <Project Path="chapters/02-output/Chapter02.csproj" />
+  </Folder>
+  <Folder Name="/chapters/03-variables/">
+    <Project Path="chapters/03-variables/Variables.csproj" />
+  </Folder>
+  <Folder Name="/chapters/04-typecast/">
+    <Project Path="chapters/04-typecast/Typecast.csproj" />
+  </Folder>
+  <Folder Name="/chapters/05-input/">
+    <Project Path="chapters/05-input/Input.csproj" />
+  </Folder>
 </Solution>

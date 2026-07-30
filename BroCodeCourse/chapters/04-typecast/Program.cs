@@ -1,0 +1,29 @@
+﻿using System;
+
+namespace Typecast
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a = 3.14;
+            int b = Convert.ToInt32(a);
+
+            int c = 123;
+            double d = Convert.ToDouble(c);
+
+            int e = 312;
+            String f = Convert.ToString(e);
+
+            String g = "$";
+            char h = Convert.ToChar(g);
+
+            String i = "true";
+            bool j = Convert.ToBoolean(i);
+
+
+            System.Console.WriteLine(b);
+            System.Console.WriteLine(a.GetType());
+        }
+    }
+}

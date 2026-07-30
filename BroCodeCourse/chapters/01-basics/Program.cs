@@ -7,7 +7,8 @@ namespace Basics
         static void Main(string[] args)
         {
             // AgeChecker.Run();
-            TemperatureChecker.Run();
+            // TemperatureChecker.Run();
+            AgeChecker.Run();
         }        
     }
 }

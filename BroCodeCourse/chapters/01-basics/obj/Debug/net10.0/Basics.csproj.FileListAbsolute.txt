@@ -12,3 +12,4 @@
 /Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/01-basics/obj/Debug/net10.0/Basics.pdb
 /Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/01-basics/obj/Debug/net10.0/Basics.genruntimeconfig.cache
 /Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/01-basics/obj/Debug/net10.0/ref/Basics.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/01-basics/obj/Debug/net10.0/Basics.sourcelink.json

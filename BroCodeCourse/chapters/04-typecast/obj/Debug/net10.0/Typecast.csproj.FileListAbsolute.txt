@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/bin/Debug/net10.0/Typecast
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/bin/Debug/net10.0/Typecast.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/bin/Debug/net10.0/Typecast.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/bin/Debug/net10.0/Typecast.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/bin/Debug/net10.0/Typecast.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/refint/Typecast.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/Typecast.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/04-typecast/obj/Debug/net10.0/ref/Typecast.dll

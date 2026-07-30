@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/bin/Debug/net10.0/Chapter02
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/bin/Debug/net10.0/Chapter02.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/bin/Debug/net10.0/Chapter02.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/bin/Debug/net10.0/Chapter02.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/bin/Debug/net10.0/Chapter02.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/refint/Chapter02.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/Chapter02.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/02-output/obj/Debug/net10.0/ref/Chapter02.dll
