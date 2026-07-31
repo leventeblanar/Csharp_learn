@@ -15,4 +15,10 @@
   <Folder Name="/chapters/05-input/">
     <Project Path="chapters/05-input/Input.csproj" />
   </Folder>
+  <Folder Name="/chapters/06-math/">
+    <Project Path="chapters/06-math/Math.csproj" />
+  </Folder>
+  <Folder Name="/chapters/07-random/">
+    <Project Path="chapters/07-random/Random.csproj" />
+  </Folder>
 </Solution>
