@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/bin/Debug/net10.0/Hypotenuse
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/bin/Debug/net10.0/Hypotenuse.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/bin/Debug/net10.0/Hypotenuse.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/bin/Debug/net10.0/Hypotenuse.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/bin/Debug/net10.0/Hypotenuse.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/refint/Hypotenuse.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/Hypotenuse.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/08-hypotenuse-calculator/obj/Debug/net10.0/ref/Hypotenuse.dll

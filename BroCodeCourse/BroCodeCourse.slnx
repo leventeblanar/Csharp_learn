@@ -21,4 +21,7 @@
   <Folder Name="/chapters/07-random/">
     <Project Path="chapters/07-random/Random.csproj" />
   </Folder>
+  <Folder Name="/chapters/08-hypotenuse-calculator/">
+    <Project Path="chapters/08-hypotenuse-calculator/Hypotenuse.csproj" />
+  </Folder>
 </Solution>
