@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/bin/Debug/net10.0/strings
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/bin/Debug/net10.0/strings.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/bin/Debug/net10.0/strings.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/bin/Debug/net10.0/strings.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/bin/Debug/net10.0/strings.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/refint/strings.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/strings.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/09-stringmethods/obj/Debug/net10.0/ref/strings.dll
