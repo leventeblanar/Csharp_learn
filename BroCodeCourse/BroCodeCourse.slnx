@@ -27,4 +27,7 @@
   <Folder Name="/chapters/09-stringmethods/">
     <Project Path="chapters/09-stringmethods/strings.csproj" />
   </Folder>
+  <Folder Name="/chapters/10-ifstatements/">
+    <Project Path="chapters/10-ifstatements/if statements.csproj" />
+  </Folder>
 </Solution>
