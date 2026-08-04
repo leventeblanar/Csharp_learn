@@ -30,4 +30,16 @@
   <Folder Name="/chapters/10-ifstatements/">
     <Project Path="chapters/10-ifstatements/if statements.csproj" />
   </Folder>
+  <Folder Name="/chapters/11-switch/">
+    <Project Path="chapters/11-switch/switch.csproj" />
+  </Folder>
+  <Folder Name="/chapters/12_logicalOperators/">
+    <Project Path="chapters/12_logicalOperators/logical operators.csproj" />
+  </Folder>
+  <Folder Name="/chapters/13_while/">
+    <Project Path="chapters/13_while/while.csproj" />
+  </Folder>
+  <Folder Name="/chapters/14_for/">
+    <Project Path="chapters/14_for/for.csproj" />
+  </Folder>
 </Solution>

@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/bin/Debug/net10.0/while
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/bin/Debug/net10.0/while.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/bin/Debug/net10.0/while.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/bin/Debug/net10.0/while.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/bin/Debug/net10.0/while.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/refint/while.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/while.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/13_while/obj/Debug/net10.0/ref/while.dll

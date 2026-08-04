@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/bin/Debug/net10.0/logical operators
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/bin/Debug/net10.0/logical operators.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/bin/Debug/net10.0/logical operators.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/bin/Debug/net10.0/logical operators.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/bin/Debug/net10.0/logical operators.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/refint/logical operators.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/logical operators.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/12_logicalOperators/obj/Debug/net10.0/ref/logical operators.dll
