@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cIYiFpVi0/g=",
+  "dgSpecHash": "4pOgX4r3xiA=",
   "success": true,
-  "projectFilePath": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/dbConnection/dbConnection.csproj",
+  "projectFilePath": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/DotEnvread/DotEnvRead.csproj",
   "expectedPackageFiles": [
     "/Users/levente_blanar/.nuget/packages/dotnetenv/3.2.0/dotnetenv.3.2.0.nupkg.sha512",
     "/Users/levente_blanar/.nuget/packages/microsoft.extensions.configuration/1.1.2/microsoft.extensions.configuration.1.1.2.nupkg.sha512",

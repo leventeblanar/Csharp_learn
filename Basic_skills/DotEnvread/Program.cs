@@ -1,6 +1,7 @@
 ﻿using DotNetEnv;
 
-Env.TraversePath().Load();
+// Env.TraversePath().Load();
+Env.Load(Path.Combine(AppContext.BaseDirectory, "../../../../.env"));
 
 string? dbHost = Environment.GetEnvironmentVariable("DB_Host");
 string? dbPort = Environment.GetEnvironmentVariable("DB_Port");
@@ -23,7 +24,7 @@ if (
 string connectionString = 
     $"Host={dbHost};" +
     $"Port={dbPort};" +
-    $"Database={dbPort};" +
+    $"Database={dbName};" +
     $"Username={dbUsername};" +
     $"Password={dbPassword}";
 

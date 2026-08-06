@@ -206,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/dbConnection/dbConnection.csproj",
-      "projectName": "dbConnection",
-      "projectPath": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/dbConnection/dbConnection.csproj",
+      "projectUniqueName": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/DotEnvread/DotEnvRead.csproj",
+      "projectName": "DotEnvRead",
+      "projectPath": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/DotEnvread/DotEnvRead.csproj",
       "packagesPath": "/Users/levente_blanar/.nuget/packages/",
-      "outputPath": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/dbConnection/obj/",
+      "outputPath": "/Users/levente_blanar/GitHub/Csharp_learn/Basic_skills/DotEnvread/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/levente_blanar/.nuget/NuGet/NuGet.Config"

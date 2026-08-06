@@ -1,4 +1,6 @@
-﻿Console.WriteLine("RPG Attack Calculator");
+﻿using System.Security.Cryptography;
+
+Console.WriteLine("RPG Attack Calculator");
 
 Console.WriteLine("Enter your name: ");
 String Name = Console.ReadLine() ?? string.Empty;
@@ -46,7 +48,7 @@ double distance = Math.Sqrt(xPow + yPow);
 
 Console.WriteLine("The enemy distance is " + distance);
 
-int attackPower;
+int attackPower = 0;
 
 // Alap támadóerő
 switch (ChClass)
@@ -64,3 +66,55 @@ switch (ChClass)
         Console.WriteLine("Unknown class.");
         break;
 }
+
+if (distance > 15)
+{
+    attackPower = 0;
+    Console.WriteLine("The attack does not reach the enemy");
+    return;
+}
+else if (distance > 8)
+{
+    attackPower -= 5;
+}
+else
+{
+    attackPower += 5;
+}
+
+Random random = new Random();
+
+int randomNumber = random.Next(1, 101);
+bool criticalHit = false;
+
+if (randomNumber <= 20)
+{
+    attackPower *= 2;
+    Console.WriteLine("Critical hit!");
+    criticalHit = true;
+}
+else
+{
+    Console.WriteLine("Regular attack!");
+}
+
+
+// Ellenfél ereje
+int enemyPower = random.Next(25, 71);
+
+// Győzelem eldöntés
+if (attackPower >= enemyPower)
+{
+    Console.WriteLine($"Player wins! {Name} defeated the enemy!");
+}
+else
+{
+    Console.WriteLine("Enemy survives!");
+}
+
+Console.WriteLine("Player: " + Name);
+Console.WriteLine("Class: " + ChClass);
+Console.WriteLine("Distance: " + distance);
+Console.WriteLine("Final Attack Power: " + attackPower);
+Console.WriteLine("Enemy Power: " + enemyPower);
+Console.WriteLine("Ciritcal hit: " + criticalHit);
