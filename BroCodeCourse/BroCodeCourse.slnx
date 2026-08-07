@@ -48,4 +48,7 @@
   <Folder Name="/chapters/16_NumberGuessingGame/">
     <Project Path="chapters/16_NumberGuessingGame/NumberGuessingGame.csproj" />
   </Folder>
+  <Folder Name="/chapters/17_rockPaperScissors/">
+    <Project Path="chapters/17_rockPaperScissors/rockPaperScissors.csproj" />
+  </Folder>
 </Solution>

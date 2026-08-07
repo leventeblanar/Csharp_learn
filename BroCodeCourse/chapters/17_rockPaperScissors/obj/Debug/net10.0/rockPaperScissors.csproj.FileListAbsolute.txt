@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/bin/Debug/net10.0/rockPaperScissors
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/bin/Debug/net10.0/rockPaperScissors.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/bin/Debug/net10.0/rockPaperScissors.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/bin/Debug/net10.0/rockPaperScissors.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/bin/Debug/net10.0/rockPaperScissors.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/refint/rockPaperScissors.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/rockPaperScissors.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/17_rockPaperScissors/obj/Debug/net10.0/ref/rockPaperScissors.dll
