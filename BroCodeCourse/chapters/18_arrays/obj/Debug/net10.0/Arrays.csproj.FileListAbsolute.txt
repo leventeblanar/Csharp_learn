@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/bin/Debug/net10.0/Arrays
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/bin/Debug/net10.0/Arrays.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/bin/Debug/net10.0/Arrays.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/bin/Debug/net10.0/Arrays.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/bin/Debug/net10.0/Arrays.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/refint/Arrays.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/Arrays.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/18_arrays/obj/Debug/net10.0/ref/Arrays.dll
