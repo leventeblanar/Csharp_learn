@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/refint/NumberGuessingGame.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/16_NumberGuessingGame/obj/Debug/net10.0/ref/NumberGuessingGame.dll

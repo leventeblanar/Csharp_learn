@@ -1,0 +1,15 @@
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/bin/Debug/net10.0/nestedLoops
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/bin/Debug/net10.0/nestedLoops.deps.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/bin/Debug/net10.0/nestedLoops.runtimeconfig.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/bin/Debug/net10.0/nestedLoops.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/bin/Debug/net10.0/nestedLoops.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.AssemblyInfoInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.AssemblyInfo.cs
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.csproj.CoreCompileInputs.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.sourcelink.json
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/refint/nestedLoops.dll
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.pdb
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/nestedLoops.genruntimeconfig.cache
+/Users/levente_blanar/GitHub/Csharp_learn/BroCodeCourse/chapters/15_NestedLoops/obj/Debug/net10.0/ref/nestedLoops.dll
